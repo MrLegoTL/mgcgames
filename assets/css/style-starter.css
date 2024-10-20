@@ -10170,7 +10170,7 @@ nav ul li a:hover {
     z-index: 1;
     overflow: hidden;
     background: #ffffff;
-    background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../images/banner.jpg);
+    background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../images/development.jpg);
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: center;
     background-attachment: fixed;
